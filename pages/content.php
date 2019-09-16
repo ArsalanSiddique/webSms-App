@@ -1,0 +1,1 @@
+<?php echo "<h1>Hello SMS application.</h1>"; ?>
